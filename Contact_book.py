@@ -93,7 +93,7 @@ def search_contacts():
         display_contacts(filtered_contacts)
 
 def show_about():
-    about_text = "Contact Book App\nVersion 1.0\n\nCreated by 'Irfan Ullah Khan'\n© 2023"
+    about_text = "Contact Book App\nVersion 1.0\n\nCreated by 'Irfan Ullah Khan'\n© 2022"
     messagebox.showinfo("About", about_text)
 
 def show_user_guide():
